@@ -8,10 +8,10 @@ I will begin by setting up my mac to be a dev environment and then continue to c
 automation for a webapp as well as an iOS app. Some of software I will be using includes Cucumber, Ruby, Watir, and 
 Selenium to name a few.  I have found a few sites that will guide me with my setups and configurations to start.
 
-Setting up Mac for dev environment:
+Completed::Setting up Mac for dev environment:
 http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/#lion-install
 
-Webapp testing using Watir and Cucumber:
+In Progress::Webapp testing using Watir and Cucumber:
 http://www.continuous-qa.com/2013/03/tutorial-up-and-running-with-cucumber.html
 
 iOS Automated Testing With Calabash, Cucumber, and Ruby:
