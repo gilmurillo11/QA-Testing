@@ -1,0 +1,9 @@
+create git repository locally and remotely
+install gems (Ruby, Selenium, Cucumber, selenium-cucumber, etc)
+rails new <project or app name>
+selenium-cucumber gen  #initialize the cucumber folder structure
+create cucumber.yml file
+
+setup env file
+create feature tests
+create step definitions
